@@ -19,12 +19,14 @@ A web application for managing and viewing books online, designed to enhance the
 
 ## 📁 Project Structure
 
+```
 AtlanticBooks/
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── img/
-│ └── (cover images and design assets)
+│   └── (cover images and design assets)
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── index.html
 └── README.md
+```
